@@ -2,10 +2,10 @@
 
 ## I'm an Alumni, Marketer, Developer and a World Citizen!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently software development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Start up my own company
-- ⚡ Fun fact: I listen all kinds of music
+- 🥅 2021 Goals: Starting up my own company
+- ⚡ Fun fact: I listen all kind of music
 
 ### Connect with me:
 
