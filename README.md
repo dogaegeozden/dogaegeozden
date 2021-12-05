@@ -3,7 +3,7 @@
 ## I'm an Alumni, Marketer, Developer and a World Citizen!!
 
 - 🌱 I’m currently learning software development
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers and content creators
 - 🥅 2021 Goals: Starting up my own company
 - ⚡ Fun fact: I listen all kind of music
 
