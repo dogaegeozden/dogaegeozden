@@ -1,7 +1,7 @@
 # Hi there, I'm [Doga Ege Ozden][website] 👋
 
 
-## I'm an Developer, Marketer and a World Citizen!!
+## I'm a Developer, Marketer and a World Citizen!!
 Cowards never win!
 
 ### Check out my [mobile applications][developerprofile]
