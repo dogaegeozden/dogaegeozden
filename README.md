@@ -1,6 +1,10 @@
 # Hi there, I'm [Doga Ege Ozden][website] 👋
 
-## I'm an Alumni, Marketer, Developer and a World Citizen!!
+
+## I'm an Developer, Marketer and a World Citizen!!
+Cowards never win!
+
+### Check out my mobile applications [developerprofile]
 
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate with other developers and content creators
@@ -20,3 +24,4 @@
 [instagram]: https://www.instagram.com/dogaege/?hl=en
 [linkedin]: https://www.linkedin.com/in/doga-ege-ozden-a78194193/
 [facebook]: https://www.facebook.com/DoaOzz
+[developerprofile]: https://play.google.com/store/apps/dev?id=5106309994896081965
