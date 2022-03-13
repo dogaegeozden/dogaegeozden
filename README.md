@@ -4,7 +4,7 @@
 ## I'm an Developer, Marketer and a World Citizen!!
 Cowards never win!
 
-### Check out my mobile applications [developerprofile]
+### Check out my [mobile applications][developerprofile]
 
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate with other developers and content creators
