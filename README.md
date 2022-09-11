@@ -1,4 +1,4 @@
-<section id="header" align="center">
+<header align="center">
     <h1><a href="https://tamrinotte.pythonanywhere.com">Doga Ege Ozden's</a> GitHub Profile</h1>
     <img src="https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g" width="600" height="300"/>
     <div id="badges">
@@ -13,7 +13,7 @@
         </a>
     </div>
     <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-</section>
+</header>
 
 ---
 
