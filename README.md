@@ -56,3 +56,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="heroku" width="40" height="40"/>
   <img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" title="Pythonanywhere" alt="pythonanywhere" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dogaegeozden&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaegeozden&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
