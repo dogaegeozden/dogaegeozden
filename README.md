@@ -1,6 +1,6 @@
 <section id="header" align="center">
     <h1><a href="https://tamrinotte.pythonanywhere.com">Doga Ege Ozden's</a> GitHub Profile</h1>
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47ssggx46r0k06l850se4d40ads6125a0x06gqbex4&rid=giphy.gif&ct=g" width="300"/>
     <div id="badges">
         <a href="https://www.linkedin.com/in/doga-ege-ozden-a78194193/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
