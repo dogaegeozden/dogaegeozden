@@ -15,8 +15,6 @@
     <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 </section>
 
----
-
 ### :man_technologist: About Me :
 
 <para><em>My name is Doga. I'm a Full Stack Developer from Turkey.</em></para>
