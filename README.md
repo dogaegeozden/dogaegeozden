@@ -1,27 +1,20 @@
-# Hi there, I'm [Doga Ege Ozden][website] 👋
-
-
-## I'm a Developer, Marketer and a World Citizen!!
-Cowards never win!
-
-### Check out my [mobile applications][developerprofile]
-
-- 🌱 I’m currently learning software development
-- 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2021 Goals: Starting up my own company
-- ⚡ Fun fact: I listen all kind of music
-
-### Connect with me:
-
-[<img align="left" alt="online-portfolio" width="25px" src="https://img.icons8.com/fluency/64/000000/portfolio.png" />][website]
-[<img align="left" alt="Doga Ege Ozden | LinkedIn" width="25px" src="https://img.icons8.com/fluency/64/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="Doga Ege Ozden | Instagram" width="25px" src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png" />][instagram]
-[<img align="left" alt="Doga Ege Ozden | LinkedIn" width="25px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
-
-<br />
-
-[website]: https://dogaege.pythonanywhere.com/blog/
-[instagram]: https://www.instagram.com/dogaege/?hl=en
-[linkedin]: https://www.linkedin.com/in/doga-ege-ozden-a78194193/
-[facebook]: https://www.facebook.com/DoaOzz
-[developerprofile]: https://play.google.com/store/apps/dev?id=5106309994896081965
+<section id="header" align="center">
+    <h1><a href="https://tamrinotte.pythonanywhere.com">Doga Ege Ozden's</a> GitHub Profile</h1>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <div id="badges">
+        <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="your-youtube-URL">
+            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+        </a>
+        <a href="your-twitter-URL">
+            <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+        </a>
+    </div>
+    <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+</section>
+---
+<section id="body" align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</section>
