@@ -27,7 +27,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I develop mobile games and cyber security tools and, sell them from my company [!Tamrinotte - :briefcase:](https://tamrinotte.pythonanywhere.com)
+- :zap: In my free time, I develop mobile games and cyber security tools and, sell them from my company [Tamrinotte - :briefcase:](https://tamrinotte.pythonanywhere.com)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Doga_Ege_Ozden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/doga-ege-ozden-a78194193/)
 ---
