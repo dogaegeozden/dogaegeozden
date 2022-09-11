@@ -16,7 +16,7 @@
 </section>
 
 <section id="body" align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g" width="600" height="300"/>
 </section>
 
 ### :man_technologist: About Me :
