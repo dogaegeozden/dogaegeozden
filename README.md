@@ -21,7 +21,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring automation and software development.
 
 - :zap: In my free time, I develop mobile games and cyber security tools and, sell them from my company [Tamrinotte - :briefcase:](https://tamrinotte.pythonanywhere.com)
 
