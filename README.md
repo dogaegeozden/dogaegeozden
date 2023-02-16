@@ -54,6 +54,8 @@
   <img src="https://www.linode.com/wp-content/themes/linode-website-theme/images/linode-akamai-logo.svg" title="Linode" alt="linode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="heroku" width="40" height="40"/>
   <img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" title="Pythonanywhere" alt="pythonanywhere" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" title="NGINX" alt="nginx" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Qt" alt="qt" width="40" height="40"/>&nbsp;
 </div>
 
 ---
