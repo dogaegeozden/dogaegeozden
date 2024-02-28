@@ -1,6 +1,6 @@
 # Hi there, I'm Doga ! 👋
 
-I'm a passionate [Your Profession] from [Your Location] with a keen interest in [Your Interests]. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions related to my areas of expertise and interests.
+I'm a passionate web developer from Turkey with a keen interest in developing wonderful web apps. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions related to my areas of expertise and interests.
 
 ## About Me
 
