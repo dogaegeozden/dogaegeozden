@@ -1,28 +1,28 @@
-# Hi there, I'm Doga ! 👋
+# Hi there, I'm Doga! 👋
 
 I'm an enthusiastic web developer from Turkey with a strong passion for crafting exceptional web applications. Welcome to my GitHub profile! Here, you'll discover a diverse array of projects and contributions that reflect my expertise and interests.
 
-![MyFavoriteGif](https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g)
+![MyFavoriteGif](https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g "My Favorite GIF")
 
 ## About Me
 
 - 🔭 I’m currently working on tamrinotte.com
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on inovative projects
+- 👯 I’m looking to collaborate on innovative projects
 - 💬 Ask me about programming
 - 📫 How to reach me: dogaegeozden@gmail.com
-- 😄 Pronouns: He and his
+- 😄 Pronouns: He
 - ⚡ Fun fact: I like to go out at night and dance in the streets
 
 ## Projects
 
 Here are a few highlights of my projects:
 
-1. [MyOnlinePortfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
+1. [My Online Portfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
 2. [Tamrinotte](https://tamrinotte.pythonanywhere.com) - Tamrinotte
 3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
-You can explore more of my projects on my [portfolio website](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden).
+You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden).
 
 ## Recent Activity
 
