@@ -9,7 +9,7 @@ I'm an enthusiastic web developer from Turkey with a strong passion for crafting
 - 👯 I’m looking to collaborate on inovative projects
 - 💬 Ask me about programming
 - 📫 How to reach me: dogaegeozden@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He and his
 - ⚡ Fun fact: I like to go out at night and dance in the streets
 
 ## Projects
