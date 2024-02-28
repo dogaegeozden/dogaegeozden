@@ -26,9 +26,9 @@ You can explore more of my projects on my [portfolio website](https://www.dogaeg
 
 I've been busy with:
 
+- [Personal Brand](https://www.dogaegeozden.com/blog/)
 - [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
 - [Entrepreneurship](https://tamrinotte.pythonanywhere.com)
-- [Personal Brand](https://www.dogaegeozden.com/blog/)
 
 ## Contributions
 
