@@ -28,7 +28,7 @@ You can explore more of my projects on my [online portfolio](https://www.dogaege
 
 I've been busy with:
 
-- [Personal Brand](https://www.dogaegeozden.com/blog/)
+- [Personal Brand](https://www.dogaegeozden.com/portfolio/)
 - [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
 - [Entrepreneurship](https://tamrinotte.pythonanywhere.com)
 
@@ -43,6 +43,7 @@ I'm actively contributing to:
 - [LinkedIn](https://www.linkedin.com/in/doga-ege-ozden-a78194193/)
 - [Instagram](https://www.instagram.com/dogaozdencreativestudio)
 - [Portfolio Website](https://www.dogaegeozden.com/register)
+- [YouTube](https://www.youtube.com/@dogaegeozden9213/videos)
 - [Email](mailto:dogaegeozden@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about technology, coding, or anything else!
