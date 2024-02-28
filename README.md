@@ -18,7 +18,7 @@ I'm an enthusiastic web developer from Turkey with a strong passion for crafting
 
 Here are a few highlights of my projects:
 
-1. [MyOnlinePortfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
+1. [My Online Portfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
 2. [Tamrinotte](https://tamrinotte.pythonanywhere.com) - Tamrinotte
 3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
