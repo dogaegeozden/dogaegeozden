@@ -1,14 +1,16 @@
-# Hi there, I'm Doga ! 👋
+# Hi there, I'm Doga! 👋
 
 I'm a passionate web developer from Turkey with a keen interest in developing wonderful web apps. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions related to my areas of expertise and interests.
 
+![MyFavoriteGif](https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g)
+
 ## About Me
 
-- 🔭 I’m currently working on tamrinotte.com
+- 🔭 I’m currently working on [Tamrinotte](https://tamrinotte.pythonanywhere.com)
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on inovative projects
+- 👯 I’m looking to collaborate on innovative projects
 - 💬 Ask me about programming
-- 📫 How to reach me: dogaegeozden@gmail.com
+- 📫 How to reach me: [dogaegeozden@gmail.com](mailto:dogaegeozden@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I like to go out at night and dance in the streets
 
@@ -16,7 +18,7 @@ I'm a passionate web developer from Turkey with a keen interest in developing wo
 
 Here are a few highlights of my projects:
 
-1. [MyOnlinePortfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
+1. [My Online Portfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
 2. [Tamrinotte](https://tamrinotte.pythonanywhere.com) - Tamrinotte
 3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
