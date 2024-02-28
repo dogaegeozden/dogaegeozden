@@ -2,6 +2,8 @@
 
 I'm an enthusiastic web developer from Turkey with a strong passion for crafting exceptional web applications. Welcome to my GitHub profile! Here, you'll discover a diverse array of projects and contributions that reflect my expertise and interests.
 
+![MyFavoriteGif](https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g)
+
 ## About Me
 
 - 🔭 I’m currently working on tamrinotte.com
