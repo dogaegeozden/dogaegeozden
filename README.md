@@ -1,67 +1,48 @@
-<section id="header" align="center">
-    <h1><a href="https://tamrinotte.pythonanywhere.com">Doga Ege Ozden's</a> GitHub Profile</h1>
-    <img src="https://media0.giphy.com/media/Dee2WU1pMHhRYoSB00/giphy.gif?cid=790b76115949ae8b411016245525440192edb105a7293e60&rid=giphy.gif&ct=g" width="600" height="300"/>
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/doga-ege-ozden-a78194193/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="https://www.youtube.com/channel/UCgcQ4tMRyt2XI48a-LuG83w">
-            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-        </a>
-        <a href="https://www.facebook.com/DoaOzz">
-            <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-        </a>
-    </div>
-    <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-</section>
+# Hi there, I'm Doga ! 👋
 
-### :man_technologist: About Me :
+I'm a passionate [Your Profession] from [Your Location] with a keen interest in [Your Interests]. Welcome to my GitHub profile! Here you'll find a collection of projects and contributions related to my areas of expertise and interests.
 
-<para><em>My name is Doga. I'm a Full Stack Developer from Turkey.</em></para>
+## About Me
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m currently working on tamrinotte.com
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on inovative projects
+- 💬 Ask me about programming
+- 📫 How to reach me: dogaegeozden@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I like to go out at night and dance in the streets
 
-- :seedling: Exploring automation and software development.
+## Projects
 
-- :zap: In my free time, I develop mobile games and cyber security tools and, sell them from my company [Tamrinotte - :briefcase:](https://tamrinotte.pythonanywhere.com)
+Here are a few highlights of my projects:
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Doga_Ege_Ozden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/doga-ege-ozden-a78194193/)
----
+1. [MyOnlinePortfolio](https://www.dogaegeozden.com) - Doga Ozden Creative Studio
+2. [Tamrinotte](https://tamrinotte.pythonanywhere.com) - Tamrinotte
+3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="Powershell" alt="powershell" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="material ui" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>
-  <img src="https://www.linode.com/wp-content/themes/linode-website-theme/images/linode-akamai-logo.svg" title="Linode" alt="linode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="heroku" width="40" height="40"/>
-  <img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" title="Pythonanywhere" alt="pythonanywhere" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" title="NGINX" alt="nginx" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" title="Qt" alt="qt" width="40" height="40"/>&nbsp;
-</div>
+You can explore more of my projects on my [portfolio website](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden).
 
----
+## Recent Activity
 
-### :fire: My Stats :
+I've been busy with:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dogaegeozden&theme=dark&background=000000)](https://git.io/streak-stats)
+- [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
+- [Entrepreneurship](https://tamrinotte.pythonanywhere.com)
+- [Personal Brand](https://www.dogaegeozden.com/blog/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaegeozden&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Contributions
+
+I'm actively contributing to:
+
+- [Ghostsurf](https://github.com/tamrinotte/ghostsurf)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/doga-ege-ozden-a78194193/)
+- [Instagram](https://www.instagram.com/dogaozdencreativestudio)
+- [Portfolio Website](https://www.dogaegeozden.com)
+- [Email](mailto:dogaegeozden@gmail.com)
+
+Feel free to reach out if you'd like to collaborate on a project or just chat about technology, coding, or anything else!
+
+Happy coding! 🚀
