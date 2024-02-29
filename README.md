@@ -22,13 +22,13 @@ Here are a few highlights of my projects:
 2. [Tamrinotte](https://tamrinotte.pythonanywhere.com) - Tamrinotte
 3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
-You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden).
+You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden?tab=repositories).
 
 ## Recent Activity
 
 I've been busy with:
 
-- [Personal Brand](https://www.dogaegeozden.com/portfolio/)
+- [Personal Branding](https://www.dogaegeozden.com/portfolio/)
 - [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
 - [Entrepreneurship](https://tamrinotte.pythonanywhere.com)
 
