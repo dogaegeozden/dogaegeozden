@@ -19,7 +19,7 @@ I'm an enthusiastic web developer from Turkey with a strong passion for crafting
 Here are a few highlights of my projects:
 
 1. [My Online Portfolio](https://www.dogaegeozden.com/portfolio/) - Doga Ozden Creative Studio
-2. [Tamrinotte](https://tamrinotte.pythonanywhere.com) - Tamrinotte
+2. [Tamrinotte](https://tamrinotte.com) - Tamrinotte
 3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
 You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden?tab=repositories).
@@ -30,7 +30,7 @@ I've been busy with:
 
 - [Personal Branding](https://www.dogaegeozden.com/portfolio/)
 - [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
-- [Entrepreneurship](https://tamrinotte.pythonanywhere.com)
+- [Entrepreneurship](https://tamrinotte.com)
 
 ## Contributions
 
