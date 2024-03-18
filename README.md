@@ -29,8 +29,10 @@ You can explore more of my projects on my [online portfolio](https://www.dogaege
 I've been busy with:
 
 - [Personal Branding and Freelancing](https://www.dogaegeozden.com/portfolio/)
-- [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
 - [Entrepreneurship](https://tamrinotte.com)
+- [Web Development](https://github.com/dogaegeozden)
+- [Game Development](https://play.google.com/store/apps/dev?id=5106309994896081965&hl=is)
+
 
 ## Contributions
 
