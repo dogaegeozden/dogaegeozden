@@ -1,4 +1,4 @@
-# Hi there, I'm Doga ! 👋
+# Hi there, I'm Doga! 👋
 
 I'm an enthusiastic web developer from Turkey with a strong passion for crafting exceptional web applications. Welcome to my GitHub profile! Here, you'll discover a diverse array of projects and contributions that reflect my expertise and interests.
 
