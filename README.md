@@ -22,7 +22,7 @@ Here are a few highlights of my projects:
 2. [Tamrinotte](https://tamrinotte.com) - Tamrinotte
 3. [Whalescape](https://www.whalescape.ca) - Whalescape
 
-You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com) or [GitHub repositories](https://github.com/dogaegeozden?tab=repositories).
+You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com/portfolio/) or [GitHub repositories](https://github.com/dogaegeozden?tab=repositories).
 
 ## Recent Activity
 
