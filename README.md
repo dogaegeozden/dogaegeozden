@@ -16,8 +16,8 @@ I'm an enthusiastic app developer from Turkey with a strong passion for crafting
 
 Here are a few highlights of my projects:
 
-1. [My Personal Brand](https://www.dogaegeozden.com/) - Doga Ege Ozden
-2. [Tamrinotte](https://tamrinotte.com) - Tamrinotte
+1. [My Personal Brand(Doga Ege Ozden)](https://www.dogaegeozden.com/)
+2. [Tamrinotte](https://tamrinotte.com)
 
 You can explore more of my projects on my [online portfolio](https://www.dogaegeozden.com/projects/) or [GitHub repositories](https://github.com/dogaegeozden?tab=repositories).
 
